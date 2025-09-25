@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently a student at ESILV, a French engineering school, specializing in Data and Artificial Intelligence.<br>
-I am seeking a VIE position as a Data Scientist starting in October 2026.
+I am seeking a VIE position in Corea, Japan, Canada and US as a Data Scientist starting in October 2026.
+If you are looking for someone and just want to talk, don't mind sending me a message.
 
 
 ## 🌐 Socials:
