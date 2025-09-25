@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at ESILV, a French engineering school, specializing in Data and Artificial Intelligence.
+I am currently a student at ESILV, a French engineering school, specializing in Data and Artificial Intelligence.<br>
 I am seeking a VIE position as a Data Scientist starting in October 2026.
 
 
